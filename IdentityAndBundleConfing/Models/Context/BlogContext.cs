@@ -12,7 +12,7 @@ namespace IdentityAndBundleConfing.Models.Context
         {
            
         }
-        public DbSet<Category> Categories { get; set; }
+        //public DbSet<Category> Categories { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
