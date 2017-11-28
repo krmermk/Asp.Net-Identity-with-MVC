@@ -187,7 +187,6 @@
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Context\BlogContext.cs" />
     <Compile Include="Models\Entity\BaseEntity.cs" />
-    <Compile Include="Models\Entity\Category.cs" />
     <Compile Include="Models\Entity\Login.cs" />
     <Compile Include="Models\Entity\Register.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
